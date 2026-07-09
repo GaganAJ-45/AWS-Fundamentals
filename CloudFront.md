@@ -3,7 +3,6 @@
 This documents upgrading a public S3-hosted static website to a production-style setup: **S3 (private) → CloudFront (CDN + HTTPS) → Visitors**, using **Origin Access Control (OAC)** so the bucket itself stays fully locked down.
 
 Related: see [S3.md](./S3.md) for the base S3 concepts (buckets, storage classes, permissions, versioning) and the original static website hosting setup.
-
 ---
 
 ## Why Move From Plain S3 Hosting to CloudFront
