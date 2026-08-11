@@ -8,7 +8,7 @@ AWS is a cloud computing platform which is used in the modern technology and it 
 - networking and others
 
 Instead of purchasing the hardware setup companies rent the resources and pay only what they use
-
+ 
 -----
 ### **Traditional Method vs AWS**
 | Traditional Data Center |	AWS Cloud |
