@@ -33,6 +33,3 @@ When a customer visits:
 6. Application logs are stored in CloudWatch.
 
 Everything works together.
-
-
--
